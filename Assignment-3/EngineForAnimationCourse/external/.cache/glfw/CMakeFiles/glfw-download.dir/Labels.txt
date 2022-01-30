@@ -1,0 +1,14 @@
+# Target labels
+ glfw-download
+# Source files and their labels
+C:/Users/paney/Documents/Studies/Animation_in_3D/Animation--Assignment-3/EngineForAnimationCourse/external/.cache/glfw/CMakeFiles/glfw-download
+C:/Users/paney/Documents/Studies/Animation_in_3D/Animation--Assignment-3/EngineForAnimationCourse/external/.cache/glfw/CMakeFiles/07e525551c978fd306746401c728c3d6/glfw-download.rule
+C:/Users/paney/Documents/Studies/Animation_in_3D/Animation--Assignment-3/EngineForAnimationCourse/external/.cache/glfw/CMakeFiles/60769206181342729b2644675d1b9038/glfw-download-complete.rule
+C:/Users/paney/Documents/Studies/Animation_in_3D/Animation--Assignment-3/EngineForAnimationCourse/external/.cache/glfw/CMakeFiles/b094d8c61fa52d6aa94f4130cccc53a4/glfw-download-build.rule
+C:/Users/paney/Documents/Studies/Animation_in_3D/Animation--Assignment-3/EngineForAnimationCourse/external/.cache/glfw/CMakeFiles/b094d8c61fa52d6aa94f4130cccc53a4/glfw-download-configure.rule
+C:/Users/paney/Documents/Studies/Animation_in_3D/Animation--Assignment-3/EngineForAnimationCourse/external/.cache/glfw/CMakeFiles/b094d8c61fa52d6aa94f4130cccc53a4/glfw-download-download.rule
+C:/Users/paney/Documents/Studies/Animation_in_3D/Animation--Assignment-3/EngineForAnimationCourse/external/.cache/glfw/CMakeFiles/b094d8c61fa52d6aa94f4130cccc53a4/glfw-download-install.rule
+C:/Users/paney/Documents/Studies/Animation_in_3D/Animation--Assignment-3/EngineForAnimationCourse/external/.cache/glfw/CMakeFiles/b094d8c61fa52d6aa94f4130cccc53a4/glfw-download-mkdir.rule
+C:/Users/paney/Documents/Studies/Animation_in_3D/Animation--Assignment-3/EngineForAnimationCourse/external/.cache/glfw/CMakeFiles/b094d8c61fa52d6aa94f4130cccc53a4/glfw-download-patch.rule
+C:/Users/paney/Documents/Studies/Animation_in_3D/Animation--Assignment-3/EngineForAnimationCourse/external/.cache/glfw/CMakeFiles/b094d8c61fa52d6aa94f4130cccc53a4/glfw-download-test.rule
+C:/Users/paney/Documents/Studies/Animation_in_3D/Animation--Assignment-3/EngineForAnimationCourse/external/.cache/glfw/CMakeFiles/b094d8c61fa52d6aa94f4130cccc53a4/glfw-download-update.rule

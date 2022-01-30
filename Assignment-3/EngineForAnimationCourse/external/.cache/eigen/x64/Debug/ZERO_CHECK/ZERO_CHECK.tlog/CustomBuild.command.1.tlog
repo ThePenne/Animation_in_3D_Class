@@ -1,0 +1,10 @@
+^C:\USERS\PANEY\DOCUMENTS\STUDIES\ANIMATION_IN_3D\ANIMATION--ASSIGNMENT-3\ENGINEFORANIMATIONCOURSE\EXTERNAL\.CACHE\EIGEN\CMAKEFILES\9D59F10EB4D8805AE1E412DD68690CCB\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/paney/Documents/Studies/Animation_in_3D/Animation--Assignment-3/EngineForAnimationCourse/external/.cache/eigen -BC:/Users/paney/Documents/Studies/Animation_in_3D/Animation--Assignment-3/EngineForAnimationCourse/external/.cache/eigen --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/paney/Documents/Studies/Animation_in_3D/Animation--Assignment-3/EngineForAnimationCourse/external/.cache/eigen/eigen-download.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

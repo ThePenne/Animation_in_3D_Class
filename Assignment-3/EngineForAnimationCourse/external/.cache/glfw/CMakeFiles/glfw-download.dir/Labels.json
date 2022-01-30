@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/paney/Documents/Studies/Animation_in_3D/Animation--Assignment-3/EngineForAnimationCourse/external/.cache/glfw/CMakeFiles/glfw-download"
+		},
+		{
+			"file" : "C:/Users/paney/Documents/Studies/Animation_in_3D/Animation--Assignment-3/EngineForAnimationCourse/external/.cache/glfw/CMakeFiles/07e525551c978fd306746401c728c3d6/glfw-download.rule"
+		},
+		{
+			"file" : "C:/Users/paney/Documents/Studies/Animation_in_3D/Animation--Assignment-3/EngineForAnimationCourse/external/.cache/glfw/CMakeFiles/60769206181342729b2644675d1b9038/glfw-download-complete.rule"
+		},
+		{
+			"file" : "C:/Users/paney/Documents/Studies/Animation_in_3D/Animation--Assignment-3/EngineForAnimationCourse/external/.cache/glfw/CMakeFiles/b094d8c61fa52d6aa94f4130cccc53a4/glfw-download-build.rule"
+		},
+		{
+			"file" : "C:/Users/paney/Documents/Studies/Animation_in_3D/Animation--Assignment-3/EngineForAnimationCourse/external/.cache/glfw/CMakeFiles/b094d8c61fa52d6aa94f4130cccc53a4/glfw-download-configure.rule"
+		},
+		{
+			"file" : "C:/Users/paney/Documents/Studies/Animation_in_3D/Animation--Assignment-3/EngineForAnimationCourse/external/.cache/glfw/CMakeFiles/b094d8c61fa52d6aa94f4130cccc53a4/glfw-download-download.rule"
+		},
+		{
+			"file" : "C:/Users/paney/Documents/Studies/Animation_in_3D/Animation--Assignment-3/EngineForAnimationCourse/external/.cache/glfw/CMakeFiles/b094d8c61fa52d6aa94f4130cccc53a4/glfw-download-install.rule"
+		},
+		{
+			"file" : "C:/Users/paney/Documents/Studies/Animation_in_3D/Animation--Assignment-3/EngineForAnimationCourse/external/.cache/glfw/CMakeFiles/b094d8c61fa52d6aa94f4130cccc53a4/glfw-download-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/paney/Documents/Studies/Animation_in_3D/Animation--Assignment-3/EngineForAnimationCourse/external/.cache/glfw/CMakeFiles/b094d8c61fa52d6aa94f4130cccc53a4/glfw-download-patch.rule"
+		},
+		{
+			"file" : "C:/Users/paney/Documents/Studies/Animation_in_3D/Animation--Assignment-3/EngineForAnimationCourse/external/.cache/glfw/CMakeFiles/b094d8c61fa52d6aa94f4130cccc53a4/glfw-download-test.rule"
+		},
+		{
+			"file" : "C:/Users/paney/Documents/Studies/Animation_in_3D/Animation--Assignment-3/EngineForAnimationCourse/external/.cache/glfw/CMakeFiles/b094d8c61fa52d6aa94f4130cccc53a4/glfw-download-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"glfw-download"
+		],
+		"name" : "glfw-download"
+	}
+}

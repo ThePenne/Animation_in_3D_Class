@@ -1,0 +1,14 @@
+# Target labels
+ stb-download
+# Source files and their labels
+C:/Users/paney/Documents/Studies/Animation_in_3D/EngineForAnimationCourse/external/.cache/stb/CMakeFiles/stb-download
+C:/Users/paney/Documents/Studies/Animation_in_3D/EngineForAnimationCourse/external/.cache/stb/CMakeFiles/9547218b304b431dc633cb37589c6f6c/stb-download.rule
+C:/Users/paney/Documents/Studies/Animation_in_3D/EngineForAnimationCourse/external/.cache/stb/CMakeFiles/5a9fad94460809843dcb1d0e5b7321df/stb-download-complete.rule
+C:/Users/paney/Documents/Studies/Animation_in_3D/EngineForAnimationCourse/external/.cache/stb/CMakeFiles/afbd219d5928eaf37d4c11d92ae1660a/stb-download-build.rule
+C:/Users/paney/Documents/Studies/Animation_in_3D/EngineForAnimationCourse/external/.cache/stb/CMakeFiles/afbd219d5928eaf37d4c11d92ae1660a/stb-download-configure.rule
+C:/Users/paney/Documents/Studies/Animation_in_3D/EngineForAnimationCourse/external/.cache/stb/CMakeFiles/afbd219d5928eaf37d4c11d92ae1660a/stb-download-download.rule
+C:/Users/paney/Documents/Studies/Animation_in_3D/EngineForAnimationCourse/external/.cache/stb/CMakeFiles/afbd219d5928eaf37d4c11d92ae1660a/stb-download-install.rule
+C:/Users/paney/Documents/Studies/Animation_in_3D/EngineForAnimationCourse/external/.cache/stb/CMakeFiles/afbd219d5928eaf37d4c11d92ae1660a/stb-download-mkdir.rule
+C:/Users/paney/Documents/Studies/Animation_in_3D/EngineForAnimationCourse/external/.cache/stb/CMakeFiles/afbd219d5928eaf37d4c11d92ae1660a/stb-download-patch.rule
+C:/Users/paney/Documents/Studies/Animation_in_3D/EngineForAnimationCourse/external/.cache/stb/CMakeFiles/afbd219d5928eaf37d4c11d92ae1660a/stb-download-test.rule
+C:/Users/paney/Documents/Studies/Animation_in_3D/EngineForAnimationCourse/external/.cache/stb/CMakeFiles/afbd219d5928eaf37d4c11d92ae1660a/stb-download-update.rule

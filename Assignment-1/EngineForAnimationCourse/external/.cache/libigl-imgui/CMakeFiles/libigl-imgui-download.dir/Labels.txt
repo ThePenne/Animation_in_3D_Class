@@ -1,0 +1,14 @@
+# Target labels
+ libigl-imgui-download
+# Source files and their labels
+C:/Users/paney/Documents/Studies/Animation_in_3D/EngineForAnimationCourse/external/.cache/libigl-imgui/CMakeFiles/libigl-imgui-download
+C:/Users/paney/Documents/Studies/Animation_in_3D/EngineForAnimationCourse/external/.cache/libigl-imgui/CMakeFiles/8c8abc49ddd8196354a22e0fc7bb4414/libigl-imgui-download.rule
+C:/Users/paney/Documents/Studies/Animation_in_3D/EngineForAnimationCourse/external/.cache/libigl-imgui/CMakeFiles/9cf7fd8f91a3bdbc0f0ac0c938d71bd4/libigl-imgui-download-complete.rule
+C:/Users/paney/Documents/Studies/Animation_in_3D/EngineForAnimationCourse/external/.cache/libigl-imgui/CMakeFiles/034afd2b8ba9508ce5bb3e17664ac9db/libigl-imgui-download-build.rule
+C:/Users/paney/Documents/Studies/Animation_in_3D/EngineForAnimationCourse/external/.cache/libigl-imgui/CMakeFiles/034afd2b8ba9508ce5bb3e17664ac9db/libigl-imgui-download-configure.rule
+C:/Users/paney/Documents/Studies/Animation_in_3D/EngineForAnimationCourse/external/.cache/libigl-imgui/CMakeFiles/034afd2b8ba9508ce5bb3e17664ac9db/libigl-imgui-download-download.rule
+C:/Users/paney/Documents/Studies/Animation_in_3D/EngineForAnimationCourse/external/.cache/libigl-imgui/CMakeFiles/034afd2b8ba9508ce5bb3e17664ac9db/libigl-imgui-download-install.rule
+C:/Users/paney/Documents/Studies/Animation_in_3D/EngineForAnimationCourse/external/.cache/libigl-imgui/CMakeFiles/034afd2b8ba9508ce5bb3e17664ac9db/libigl-imgui-download-mkdir.rule
+C:/Users/paney/Documents/Studies/Animation_in_3D/EngineForAnimationCourse/external/.cache/libigl-imgui/CMakeFiles/034afd2b8ba9508ce5bb3e17664ac9db/libigl-imgui-download-patch.rule
+C:/Users/paney/Documents/Studies/Animation_in_3D/EngineForAnimationCourse/external/.cache/libigl-imgui/CMakeFiles/034afd2b8ba9508ce5bb3e17664ac9db/libigl-imgui-download-test.rule
+C:/Users/paney/Documents/Studies/Animation_in_3D/EngineForAnimationCourse/external/.cache/libigl-imgui/CMakeFiles/034afd2b8ba9508ce5bb3e17664ac9db/libigl-imgui-download-update.rule

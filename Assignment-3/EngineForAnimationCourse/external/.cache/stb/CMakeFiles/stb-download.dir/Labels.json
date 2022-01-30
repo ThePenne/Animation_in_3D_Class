@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/paney/Documents/Studies/Animation_in_3D/Animation--Assignment-3/EngineForAnimationCourse/external/.cache/stb/CMakeFiles/stb-download"
+		},
+		{
+			"file" : "C:/Users/paney/Documents/Studies/Animation_in_3D/Animation--Assignment-3/EngineForAnimationCourse/external/.cache/stb/CMakeFiles/0f4e4bca3f82a1b34e352a13d186d78e/stb-download.rule"
+		},
+		{
+			"file" : "C:/Users/paney/Documents/Studies/Animation_in_3D/Animation--Assignment-3/EngineForAnimationCourse/external/.cache/stb/CMakeFiles/9544ac4e05a7cced74ae03769c774140/stb-download-complete.rule"
+		},
+		{
+			"file" : "C:/Users/paney/Documents/Studies/Animation_in_3D/Animation--Assignment-3/EngineForAnimationCourse/external/.cache/stb/CMakeFiles/605297f0c0ecc1de401b2d3c7826b3bd/stb-download-build.rule"
+		},
+		{
+			"file" : "C:/Users/paney/Documents/Studies/Animation_in_3D/Animation--Assignment-3/EngineForAnimationCourse/external/.cache/stb/CMakeFiles/605297f0c0ecc1de401b2d3c7826b3bd/stb-download-configure.rule"
+		},
+		{
+			"file" : "C:/Users/paney/Documents/Studies/Animation_in_3D/Animation--Assignment-3/EngineForAnimationCourse/external/.cache/stb/CMakeFiles/605297f0c0ecc1de401b2d3c7826b3bd/stb-download-download.rule"
+		},
+		{
+			"file" : "C:/Users/paney/Documents/Studies/Animation_in_3D/Animation--Assignment-3/EngineForAnimationCourse/external/.cache/stb/CMakeFiles/605297f0c0ecc1de401b2d3c7826b3bd/stb-download-install.rule"
+		},
+		{
+			"file" : "C:/Users/paney/Documents/Studies/Animation_in_3D/Animation--Assignment-3/EngineForAnimationCourse/external/.cache/stb/CMakeFiles/605297f0c0ecc1de401b2d3c7826b3bd/stb-download-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/paney/Documents/Studies/Animation_in_3D/Animation--Assignment-3/EngineForAnimationCourse/external/.cache/stb/CMakeFiles/605297f0c0ecc1de401b2d3c7826b3bd/stb-download-patch.rule"
+		},
+		{
+			"file" : "C:/Users/paney/Documents/Studies/Animation_in_3D/Animation--Assignment-3/EngineForAnimationCourse/external/.cache/stb/CMakeFiles/605297f0c0ecc1de401b2d3c7826b3bd/stb-download-test.rule"
+		},
+		{
+			"file" : "C:/Users/paney/Documents/Studies/Animation_in_3D/Animation--Assignment-3/EngineForAnimationCourse/external/.cache/stb/CMakeFiles/605297f0c0ecc1de401b2d3c7826b3bd/stb-download-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"stb-download"
+		],
+		"name" : "stb-download"
+	}
+}

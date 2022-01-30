@@ -1,0 +1,14 @@
+Authors: Roee Weiss Lipshitz, Pan Eyal
+
+Git-Repo: https://github.com/penne8/EngineForAnimationCourse.git
+
+10) 	We calculated all edge-costs and new vertices as shown in the paper. We wrote
+	a single new function that calculates Kp matrices for both vertices of given edge, 
+	summing them together to get Q1, Q2 respectively, and then summed them togather to get
+	Q=Q1+Q2. We then solved the linear equation system shown in the paper to get the optimal
+	new vertex v, and calculated v^T*Q*v to get the cost of the change. We calculated the
+	normals for the calculations of Kps inside this function for the sake of encapsulation.
+	
+11)	Our collapse edge function similar to the original one, exept for the added printing.
+	We didn't need to change more things since all the logic happens in our cost function,
+	as we mantioned.

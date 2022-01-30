@@ -1,0 +1,5 @@
+C:/Users/paney/Documents/Studies/Animation_in_3D/Animation--Assignment-3/EngineForAnimationCourse/tutorial/data/sphere.obj
+C:/Users/paney/Documents/Studies/Animation_in_3D/Animation--Assignment-3/EngineForAnimationCourse/tutorial/data/zCylinder.obj
+C:/Users/paney/Documents/Studies/Animation_in_3D/Animation--Assignment-3/EngineForAnimationCourse/tutorial/data/zCylinder.obj
+C:/Users/paney/Documents/Studies/Animation_in_3D/Animation--Assignment-3/EngineForAnimationCourse/tutorial/data/zCylinder.obj
+C:/Users/paney/Documents/Studies/Animation_in_3D/Animation--Assignment-3/EngineForAnimationCourse/tutorial/data/zCylinder.obj

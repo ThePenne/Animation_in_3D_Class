@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/paney/Documents/Studies/Animation_in_3D/Animation--Assignment-3/EngineForAnimationCourse/external/.cache/eigen/CMakeFiles/eigen-download"
+		},
+		{
+			"file" : "C:/Users/paney/Documents/Studies/Animation_in_3D/Animation--Assignment-3/EngineForAnimationCourse/external/.cache/eigen/CMakeFiles/9d59f10eb4d8805ae1e412dd68690ccb/eigen-download.rule"
+		},
+		{
+			"file" : "C:/Users/paney/Documents/Studies/Animation_in_3D/Animation--Assignment-3/EngineForAnimationCourse/external/.cache/eigen/CMakeFiles/cb5d8973ef440f0a6c0cd017ab9d68bb/eigen-download-complete.rule"
+		},
+		{
+			"file" : "C:/Users/paney/Documents/Studies/Animation_in_3D/Animation--Assignment-3/EngineForAnimationCourse/external/.cache/eigen/CMakeFiles/78541f564fd5839872e2f8b1800b4a94/eigen-download-build.rule"
+		},
+		{
+			"file" : "C:/Users/paney/Documents/Studies/Animation_in_3D/Animation--Assignment-3/EngineForAnimationCourse/external/.cache/eigen/CMakeFiles/78541f564fd5839872e2f8b1800b4a94/eigen-download-configure.rule"
+		},
+		{
+			"file" : "C:/Users/paney/Documents/Studies/Animation_in_3D/Animation--Assignment-3/EngineForAnimationCourse/external/.cache/eigen/CMakeFiles/78541f564fd5839872e2f8b1800b4a94/eigen-download-download.rule"
+		},
+		{
+			"file" : "C:/Users/paney/Documents/Studies/Animation_in_3D/Animation--Assignment-3/EngineForAnimationCourse/external/.cache/eigen/CMakeFiles/78541f564fd5839872e2f8b1800b4a94/eigen-download-install.rule"
+		},
+		{
+			"file" : "C:/Users/paney/Documents/Studies/Animation_in_3D/Animation--Assignment-3/EngineForAnimationCourse/external/.cache/eigen/CMakeFiles/78541f564fd5839872e2f8b1800b4a94/eigen-download-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/paney/Documents/Studies/Animation_in_3D/Animation--Assignment-3/EngineForAnimationCourse/external/.cache/eigen/CMakeFiles/78541f564fd5839872e2f8b1800b4a94/eigen-download-patch.rule"
+		},
+		{
+			"file" : "C:/Users/paney/Documents/Studies/Animation_in_3D/Animation--Assignment-3/EngineForAnimationCourse/external/.cache/eigen/CMakeFiles/78541f564fd5839872e2f8b1800b4a94/eigen-download-test.rule"
+		},
+		{
+			"file" : "C:/Users/paney/Documents/Studies/Animation_in_3D/Animation--Assignment-3/EngineForAnimationCourse/external/.cache/eigen/CMakeFiles/78541f564fd5839872e2f8b1800b4a94/eigen-download-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"eigen-download"
+		],
+		"name" : "eigen-download"
+	}
+}

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\paney\Documents\Studies\Animation_in_3D\EngineForAnimationCourse\external\.cache\libigl-imgui\CMakeFiles\034afd2b8ba9508ce5bb3e17664ac9db\libigl-imgui-download-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\paney\Documents\Studies\Animation_in_3D\EngineForAnimationCourse\external\.cache\libigl-imgui\CMakeFiles\034afd2b8ba9508ce5bb3e17664ac9db\libigl-imgui-download-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\paney\Documents\Studies\Animation_in_3D\EngineForAnimationCourse\external\.cache\libigl-imgui\CMakeFiles\034afd2b8ba9508ce5bb3e17664ac9db\libigl-imgui-download-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\paney\Documents\Studies\Animation_in_3D\EngineForAnimationCourse\external\.cache\libigl-imgui\CMakeFiles\034afd2b8ba9508ce5bb3e17664ac9db\libigl-imgui-download-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\paney\Documents\Studies\Animation_in_3D\EngineForAnimationCourse\external\.cache\libigl-imgui\CMakeFiles\034afd2b8ba9508ce5bb3e17664ac9db\libigl-imgui-download-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\paney\Documents\Studies\Animation_in_3D\EngineForAnimationCourse\external\.cache\libigl-imgui\CMakeFiles\034afd2b8ba9508ce5bb3e17664ac9db\libigl-imgui-download-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\paney\Documents\Studies\Animation_in_3D\EngineForAnimationCourse\external\.cache\libigl-imgui\CMakeFiles\034afd2b8ba9508ce5bb3e17664ac9db\libigl-imgui-download-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\paney\Documents\Studies\Animation_in_3D\EngineForAnimationCourse\external\.cache\libigl-imgui\CMakeFiles\034afd2b8ba9508ce5bb3e17664ac9db\libigl-imgui-download-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\paney\Documents\Studies\Animation_in_3D\EngineForAnimationCourse\external\.cache\libigl-imgui\CMakeFiles\9cf7fd8f91a3bdbc0f0ac0c938d71bd4\libigl-imgui-download-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\paney\Documents\Studies\Animation_in_3D\EngineForAnimationCourse\external\.cache\libigl-imgui\CMakeFiles\8c8abc49ddd8196354a22e0fc7bb4414\libigl-imgui-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\paney\Documents\Studies\Animation_in_3D\EngineForAnimationCourse\external\.cache\libigl-imgui\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\paney\Documents\Studies\Animation_in_3D\EngineForAnimationCourse\external\.cache\libigl-imgui\CMakeFiles\libigl-imgui-download" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{1F7162E9-B24D-3E1A-BB82-5962F3B9227D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

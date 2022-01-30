@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\paney\Documents\Studies\Animation_in_3D\Animation--Assignment-3\EngineForAnimationCourse\external\.cache\glad\CMakeFiles\7806454d2e5352f7d892a4d2a05d84c0\glad-download-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\paney\Documents\Studies\Animation_in_3D\Animation--Assignment-3\EngineForAnimationCourse\external\.cache\glad\CMakeFiles\7806454d2e5352f7d892a4d2a05d84c0\glad-download-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\paney\Documents\Studies\Animation_in_3D\Animation--Assignment-3\EngineForAnimationCourse\external\.cache\glad\CMakeFiles\7806454d2e5352f7d892a4d2a05d84c0\glad-download-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\paney\Documents\Studies\Animation_in_3D\Animation--Assignment-3\EngineForAnimationCourse\external\.cache\glad\CMakeFiles\7806454d2e5352f7d892a4d2a05d84c0\glad-download-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\paney\Documents\Studies\Animation_in_3D\Animation--Assignment-3\EngineForAnimationCourse\external\.cache\glad\CMakeFiles\7806454d2e5352f7d892a4d2a05d84c0\glad-download-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\paney\Documents\Studies\Animation_in_3D\Animation--Assignment-3\EngineForAnimationCourse\external\.cache\glad\CMakeFiles\7806454d2e5352f7d892a4d2a05d84c0\glad-download-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\paney\Documents\Studies\Animation_in_3D\Animation--Assignment-3\EngineForAnimationCourse\external\.cache\glad\CMakeFiles\7806454d2e5352f7d892a4d2a05d84c0\glad-download-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\paney\Documents\Studies\Animation_in_3D\Animation--Assignment-3\EngineForAnimationCourse\external\.cache\glad\CMakeFiles\7806454d2e5352f7d892a4d2a05d84c0\glad-download-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\paney\Documents\Studies\Animation_in_3D\Animation--Assignment-3\EngineForAnimationCourse\external\.cache\glad\CMakeFiles\ab3d63ec4331ea8851444858014a9a5d\glad-download-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\paney\Documents\Studies\Animation_in_3D\Animation--Assignment-3\EngineForAnimationCourse\external\.cache\glad\CMakeFiles\5e5907d85bff0a70770c247576387081\glad-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\paney\Documents\Studies\Animation_in_3D\Animation--Assignment-3\EngineForAnimationCourse\external\.cache\glad\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\paney\Documents\Studies\Animation_in_3D\Animation--Assignment-3\EngineForAnimationCourse\external\.cache\glad\CMakeFiles\glad-download" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{A08838BB-4FB0-3DF6-B440-2A2E9D2143B2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

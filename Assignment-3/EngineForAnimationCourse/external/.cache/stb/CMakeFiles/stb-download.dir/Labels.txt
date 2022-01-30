@@ -1,0 +1,14 @@
+# Target labels
+ stb-download
+# Source files and their labels
+C:/Users/paney/Documents/Studies/Animation_in_3D/Animation--Assignment-3/EngineForAnimationCourse/external/.cache/stb/CMakeFiles/stb-download
+C:/Users/paney/Documents/Studies/Animation_in_3D/Animation--Assignment-3/EngineForAnimationCourse/external/.cache/stb/CMakeFiles/0f4e4bca3f82a1b34e352a13d186d78e/stb-download.rule
+C:/Users/paney/Documents/Studies/Animation_in_3D/Animation--Assignment-3/EngineForAnimationCourse/external/.cache/stb/CMakeFiles/9544ac4e05a7cced74ae03769c774140/stb-download-complete.rule
+C:/Users/paney/Documents/Studies/Animation_in_3D/Animation--Assignment-3/EngineForAnimationCourse/external/.cache/stb/CMakeFiles/605297f0c0ecc1de401b2d3c7826b3bd/stb-download-build.rule
+C:/Users/paney/Documents/Studies/Animation_in_3D/Animation--Assignment-3/EngineForAnimationCourse/external/.cache/stb/CMakeFiles/605297f0c0ecc1de401b2d3c7826b3bd/stb-download-configure.rule
+C:/Users/paney/Documents/Studies/Animation_in_3D/Animation--Assignment-3/EngineForAnimationCourse/external/.cache/stb/CMakeFiles/605297f0c0ecc1de401b2d3c7826b3bd/stb-download-download.rule
+C:/Users/paney/Documents/Studies/Animation_in_3D/Animation--Assignment-3/EngineForAnimationCourse/external/.cache/stb/CMakeFiles/605297f0c0ecc1de401b2d3c7826b3bd/stb-download-install.rule
+C:/Users/paney/Documents/Studies/Animation_in_3D/Animation--Assignment-3/EngineForAnimationCourse/external/.cache/stb/CMakeFiles/605297f0c0ecc1de401b2d3c7826b3bd/stb-download-mkdir.rule
+C:/Users/paney/Documents/Studies/Animation_in_3D/Animation--Assignment-3/EngineForAnimationCourse/external/.cache/stb/CMakeFiles/605297f0c0ecc1de401b2d3c7826b3bd/stb-download-patch.rule
+C:/Users/paney/Documents/Studies/Animation_in_3D/Animation--Assignment-3/EngineForAnimationCourse/external/.cache/stb/CMakeFiles/605297f0c0ecc1de401b2d3c7826b3bd/stb-download-test.rule
+C:/Users/paney/Documents/Studies/Animation_in_3D/Animation--Assignment-3/EngineForAnimationCourse/external/.cache/stb/CMakeFiles/605297f0c0ecc1de401b2d3c7826b3bd/stb-download-update.rule
