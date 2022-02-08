@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\paney\Documents\Studies\Animation_in_3D\Animation--Assignment-2\EngineForAnimationCourse\external\.cache\glfw\CMakeFiles\da0e92d71ba12e52bbfe9e450a656899\glfw-download-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\paney\Documents\Studies\Animation_in_3D\Animation--Assignment-2\EngineForAnimationCourse\external\.cache\glfw\CMakeFiles\da0e92d71ba12e52bbfe9e450a656899\glfw-download-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\paney\Documents\Studies\Animation_in_3D\Animation--Assignment-2\EngineForAnimationCourse\external\.cache\glfw\CMakeFiles\da0e92d71ba12e52bbfe9e450a656899\glfw-download-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\paney\Documents\Studies\Animation_in_3D\Animation--Assignment-2\EngineForAnimationCourse\external\.cache\glfw\CMakeFiles\da0e92d71ba12e52bbfe9e450a656899\glfw-download-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\paney\Documents\Studies\Animation_in_3D\Animation--Assignment-2\EngineForAnimationCourse\external\.cache\glfw\CMakeFiles\da0e92d71ba12e52bbfe9e450a656899\glfw-download-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\paney\Documents\Studies\Animation_in_3D\Animation--Assignment-2\EngineForAnimationCourse\external\.cache\glfw\CMakeFiles\da0e92d71ba12e52bbfe9e450a656899\glfw-download-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\paney\Documents\Studies\Animation_in_3D\Animation--Assignment-2\EngineForAnimationCourse\external\.cache\glfw\CMakeFiles\da0e92d71ba12e52bbfe9e450a656899\glfw-download-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\paney\Documents\Studies\Animation_in_3D\Animation--Assignment-2\EngineForAnimationCourse\external\.cache\glfw\CMakeFiles\da0e92d71ba12e52bbfe9e450a656899\glfw-download-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\paney\Documents\Studies\Animation_in_3D\Animation--Assignment-2\EngineForAnimationCourse\external\.cache\glfw\CMakeFiles\a6b8805f45eae83e032b501a0229e126\glfw-download-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\paney\Documents\Studies\Animation_in_3D\Animation--Assignment-2\EngineForAnimationCourse\external\.cache\glfw\CMakeFiles\a3c4af31ce46491c10865e7423ba4fa2\glfw-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\paney\Documents\Studies\Animation_in_3D\Animation--Assignment-2\EngineForAnimationCourse\external\.cache\glfw\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\paney\Documents\Studies\Animation_in_3D\Animation--Assignment-2\EngineForAnimationCourse\external\.cache\glfw\CMakeFiles\glfw-download" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{DEE2F535-C61E-387D-AA4A-0815568DBA5B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

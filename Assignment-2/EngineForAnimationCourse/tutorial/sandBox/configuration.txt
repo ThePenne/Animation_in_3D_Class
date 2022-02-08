@@ -1,0 +1,2 @@
+C:/Users/paney/Documents/Studies/Animation_in_3D/Animation--Assignment-2/EngineForAnimationCourse/tutorial/data/sphere.obj
+C:/Users/paney/Documents/Studies/Animation_in_3D/Animation--Assignment-2/EngineForAnimationCourse/tutorial/data/sphere.obj

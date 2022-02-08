@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\paney\Documents\Studies\Animation_in_3D\Animation--Assignment-2\EngineForAnimationCourse\external\.cache\stb\CMakeFiles\71f1b18b6a2efe7603b645f2bd7a1059\stb-download-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\paney\Documents\Studies\Animation_in_3D\Animation--Assignment-2\EngineForAnimationCourse\external\.cache\stb\CMakeFiles\71f1b18b6a2efe7603b645f2bd7a1059\stb-download-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\paney\Documents\Studies\Animation_in_3D\Animation--Assignment-2\EngineForAnimationCourse\external\.cache\stb\CMakeFiles\71f1b18b6a2efe7603b645f2bd7a1059\stb-download-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\paney\Documents\Studies\Animation_in_3D\Animation--Assignment-2\EngineForAnimationCourse\external\.cache\stb\CMakeFiles\71f1b18b6a2efe7603b645f2bd7a1059\stb-download-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\paney\Documents\Studies\Animation_in_3D\Animation--Assignment-2\EngineForAnimationCourse\external\.cache\stb\CMakeFiles\71f1b18b6a2efe7603b645f2bd7a1059\stb-download-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\paney\Documents\Studies\Animation_in_3D\Animation--Assignment-2\EngineForAnimationCourse\external\.cache\stb\CMakeFiles\71f1b18b6a2efe7603b645f2bd7a1059\stb-download-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\paney\Documents\Studies\Animation_in_3D\Animation--Assignment-2\EngineForAnimationCourse\external\.cache\stb\CMakeFiles\71f1b18b6a2efe7603b645f2bd7a1059\stb-download-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\paney\Documents\Studies\Animation_in_3D\Animation--Assignment-2\EngineForAnimationCourse\external\.cache\stb\CMakeFiles\71f1b18b6a2efe7603b645f2bd7a1059\stb-download-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\paney\Documents\Studies\Animation_in_3D\Animation--Assignment-2\EngineForAnimationCourse\external\.cache\stb\CMakeFiles\6b7799f64221487d4fed7d039ada3f0c\stb-download-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\paney\Documents\Studies\Animation_in_3D\Animation--Assignment-2\EngineForAnimationCourse\external\.cache\stb\CMakeFiles\a8ed71f1959c96f9169ff00e0c023e2a\stb-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\paney\Documents\Studies\Animation_in_3D\Animation--Assignment-2\EngineForAnimationCourse\external\.cache\stb\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\paney\Documents\Studies\Animation_in_3D\Animation--Assignment-2\EngineForAnimationCourse\external\.cache\stb\CMakeFiles\stb-download" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{1FE9B9A8-FD09-36CB-A8E8-B672297F0AF0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

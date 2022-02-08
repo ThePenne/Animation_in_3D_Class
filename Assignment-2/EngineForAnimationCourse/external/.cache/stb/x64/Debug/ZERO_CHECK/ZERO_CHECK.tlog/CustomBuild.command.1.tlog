@@ -1,0 +1,10 @@
+^C:\USERS\PANEY\DOCUMENTS\STUDIES\ANIMATION_IN_3D\ANIMATION--ASSIGNMENT-2\ENGINEFORANIMATIONCOURSE\EXTERNAL\.CACHE\STB\CMAKEFILES\A8ED71F1959C96F9169FF00E0C023E2A\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/paney/Documents/Studies/Animation_in_3D/Animation--Assignment-2/EngineForAnimationCourse/external/.cache/stb -BC:/Users/paney/Documents/Studies/Animation_in_3D/Animation--Assignment-2/EngineForAnimationCourse/external/.cache/stb --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/paney/Documents/Studies/Animation_in_3D/Animation--Assignment-2/EngineForAnimationCourse/external/.cache/stb/stb-download.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
