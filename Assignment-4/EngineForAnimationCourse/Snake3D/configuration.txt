@@ -1,0 +1,10 @@
+data/snake2.obj
+data/cube.obj
+data/cube.obj
+data/cube.obj
+data/cube.obj
+data/cube.obj
+data/cube.obj
+data/cube.obj
+data/cube.obj
+data/sphere.obj
